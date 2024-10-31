@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #232830;
+}
+
+ul {
+  list-style: none;
+}
+
+image {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
